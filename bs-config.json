@@ -1,4 +1,5 @@
 {
+  "browser": "chrome", 
     "server": {
       "baseDir": [
         "./src",
@@ -8,4 +9,4 @@
         "/vendor": "./node_modules"
       }
     }
-  }
+  } 
